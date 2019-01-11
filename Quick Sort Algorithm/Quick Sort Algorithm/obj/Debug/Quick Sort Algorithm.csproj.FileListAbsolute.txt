@@ -1,0 +1,6 @@
+C:\Users\KEMPA\Documents\Visual Studio 2015\Projects\Quick Sort Algorithm\Quick Sort Algorithm\bin\Debug\Quick Sort Algorithm.exe.config
+C:\Users\KEMPA\Documents\Visual Studio 2015\Projects\Quick Sort Algorithm\Quick Sort Algorithm\bin\Debug\Quick Sort Algorithm.exe
+C:\Users\KEMPA\Documents\Visual Studio 2015\Projects\Quick Sort Algorithm\Quick Sort Algorithm\bin\Debug\Quick Sort Algorithm.pdb
+C:\Users\KEMPA\Documents\Visual Studio 2015\Projects\Quick Sort Algorithm\Quick Sort Algorithm\obj\Debug\Quick Sort Algorithm.csprojResolveAssemblyReference.cache
+C:\Users\KEMPA\Documents\Visual Studio 2015\Projects\Quick Sort Algorithm\Quick Sort Algorithm\obj\Debug\Quick Sort Algorithm.exe
+C:\Users\KEMPA\Documents\Visual Studio 2015\Projects\Quick Sort Algorithm\Quick Sort Algorithm\obj\Debug\Quick Sort Algorithm.pdb
